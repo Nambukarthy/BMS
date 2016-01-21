@@ -1,0 +1,1 @@
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\BMS.WindowsPhone.csproj;neutral

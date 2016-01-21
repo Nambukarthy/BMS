@@ -1,0 +1,378 @@
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\App.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Views\HomePage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.xr.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.exe
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.pdb
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\resources.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\AppxManifest.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.build.appxrecipe
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.Store.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\App.g.i.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\App.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Views\HomePage.g.i.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Views\HomePage.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\App.xaml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Views\HomePage.xaml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\App.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Views\HomePage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.exe
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.pdb
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.csproj.GenerateResource.Cache
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\priconfig.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\priconfig.xml.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\layout.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\layout.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\resources.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\resources.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\pri.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\pri.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\qualifiers.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\ProjectArchitectures.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.csprojResolveAssemblyReference.cache
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.exe
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.pdb
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\App.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.xr.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.exe
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.pdb
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\resources.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.build.appxrecipe
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\JRatingControl.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.Store.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\MyToolkit.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\JRatingControl.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\MyToolkit.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.csproj.GenerateResource.Cache
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\JRatingControl.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Views\MoviesPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Views\MoviesDetailsPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Views\MoviesDetailsPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\BMS.Windows.xr.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\BMS.Windows.exe
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\BMS.Windows.pdb
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\resources.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\BMS.Windows.build.appxrecipe
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\JRatingControl.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.Store.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\MyToolkit.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\JRatingControl.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\MyToolkit.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\App.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\App.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\App.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\BMS.Windows.exe
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\BMS.Windows.pdb
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\BMS.Windows.csproj.GenerateResource.Cache
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\JRatingControl.pri.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\bin\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\BMS.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Themes\Generic.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Themes\Generic.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Views\MoviesDetailsPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.xr.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.exe
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.pdb
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\resources.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\BMS.Windows.build.appxrecipe
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\JRatingControl.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.Store.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\MyToolkit.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\JRatingControl.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\MyToolkit.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Themes\Generic.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Themes\Generic.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesDetailsPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.exe
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.pdb
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\BMS.Windows.csproj.GenerateResource.Cache
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\priconfig.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\layout.resfiles
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\resources.resfiles
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\pri.resfiles
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\JRatingControl.pri.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Prism.StoreApps.Windows.pri.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.Windows\obj\Debug\ProjectArchitectures.txt

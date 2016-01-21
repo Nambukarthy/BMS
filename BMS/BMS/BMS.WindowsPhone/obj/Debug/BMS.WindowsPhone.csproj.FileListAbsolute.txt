@@ -1,0 +1,475 @@
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\App.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\HomePage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.xr.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.exe
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.pdb
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\resources.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\AppxManifest.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.build.appxrecipe
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.Phone.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.i.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.i.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xaml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xaml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.exe
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.pdb
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csproj.GenerateResource.Cache
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Themes\Generic.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.i.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xaml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\AlgorithmPage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\MoviesPage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csprojResolveAssemblyReference.cache
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.i.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.i.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.cs
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xaml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xaml
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xbf
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+E:\WindowsPhoneApps\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\AlgorithmPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\HomePage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.xr.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.exe
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.pdb
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.build.appxrecipe
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.Phone.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.exe
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.pdb
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Themes\Generic.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\AlgorithmPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\HomePage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\MoviesPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.xr.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.exe
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.pdb
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.build.appxrecipe
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.Phone.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.exe
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.pdb
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.pri
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\JRatingControl.pri.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.dll
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\TrailerWebviewPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.i.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.cs
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xaml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xbf
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Nambukarthy R\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Views\AlgorithmPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Views\HomePage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Views\TrailerWebviewPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.xr.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.exe
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.pdb
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.build.appxrecipe
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.Phone.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.exe
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.pdb
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\JRatingControl.pri.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\bin\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.cs
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xaml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xbf
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\Resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Nambu\Desktop\BMS_10Jan\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\TrailerWebviewPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.dll
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.pri
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.xml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.i.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.cs
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xaml
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xbf
+C:\Users\Nambu\Desktop\BMS\BMS\BMS.WindowsPhone\obj\Debug\JRatingControl.pri.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\App.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Themes\Generic.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\AlgorithmPage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\HomePage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\MoviesPage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Views\TrailerWebviewPage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.xr.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.exe
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.pdb
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\resources.pri
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\AppxManifest.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\BMS.WindowsPhone.build.appxrecipe
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactions.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Xaml.Interactivity.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.Phone.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\JRatingControl.pri
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.pri
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\MyToolkit.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csprojResolveAssemblyReference.cache
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.i.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.g.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.i.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.g.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.i.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.g.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.i.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.g.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.i.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.g.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.i.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.g.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xaml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xaml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xaml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xaml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xaml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xaml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\App.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\AlgorithmPage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\HomePage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\MoviesPage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Views\TrailerWebviewPage.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Themes\Generic.xbf
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.exe
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.pdb
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\en\Microsoft.Practices.Prism.Mvvm.Properties.Resources.resw
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\BMS.WindowsPhone.csproj.GenerateResource.Cache
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm.pri
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.Mvvm\qualifiers.txt
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\JRatingControl.pri.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.pri.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\Microsoft.Practices.Prism.StoreApps.Phone.pri.xml
+F:\Assignments\BMS\BMS\BMS.WindowsPhone\obj\Debug\ProjectArchitectures.txt
